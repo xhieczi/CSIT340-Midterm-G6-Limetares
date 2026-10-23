@@ -8,6 +8,7 @@ function PlanCard({ name, price, storage, support, seats, months }) {
         <p className="mt-2 text-xl">
           PHP {price} per seat each month
         </p>
+        
 
         <ul className="mt-6 text-xl">
           <Feature text={storage} />
