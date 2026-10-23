@@ -25,8 +25,9 @@ function PlanPicker() {
         <Summary
           seats={seats}
           months={months}
-          customer="Jelian S. Limetares"
+          customer="Jelian Limetares"
         />
+
 
         <div className="flex gap-4">
           <button
