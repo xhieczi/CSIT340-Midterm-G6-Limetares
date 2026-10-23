@@ -11,7 +11,9 @@ function Waitlist() {
     setTeams(0);
   }
 
+
   return (
+    
     <div className="mx-20 mt-8 flex items-center justify-between rounded-xl border-2 border-[#000000] bg-[#EEEEEE] p-6">
       <div>
         <h3 className="text-2xl font-bold">
